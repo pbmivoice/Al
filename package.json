@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node out/index.js"
+  },
+  "dependencies": {
+    "chatgpt": "^5.2.5",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
